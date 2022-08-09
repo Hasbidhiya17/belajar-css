@@ -1,0 +1,16 @@
+*, html,body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: url(Background.jpg) no-repeat;
+  background-size: cover;
+}
+h1,h2,h3,p,a {
+  color: #FDFDFD;
+  text-align: center;
+}
+.centerbox {
+  width: 550px;
+  border: 1px solid white;
+}
